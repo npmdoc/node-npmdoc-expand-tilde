@@ -1,4 +1,7 @@
-# api documentation for  [expand-tilde (v2.0.2)](https://github.com/jonschlinkert/expand-tilde)  [![npm package](https://img.shields.io/npm/v/npmdoc-expand-tilde.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-expand-tilde) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-expand-tilde.svg)](https://travis-ci.org/npmdoc/node-npmdoc-expand-tilde)
+# npmdoc-expand-tilde
+
+#### basic api documentation for  [expand-tilde (v2.0.2)](https://github.com/jonschlinkert/expand-tilde)  [![npm package](https://img.shields.io/npm/v/npmdoc-expand-tilde.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-expand-tilde) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-expand-tilde.svg)](https://travis-ci.org/npmdoc/node-npmdoc-expand-tilde)
+
 #### Bash-like tilde expansion for node.js. Expands a leading tilde in a file path to the user home directory, or `~+` to the cwd.
 
 [![NPM](https://nodei.co/npm/expand-tilde.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/expand-tilde)
@@ -103,7 +106,8 @@
             "reflinks": true
         }
     },
-    "version": "2.0.2"
+    "version": "2.0.2",
+    "bin": {}
 }
 ```
 
